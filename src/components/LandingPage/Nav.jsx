@@ -70,7 +70,7 @@ const Nav = () => {
             onClick={handleAdminLogin}
             className="bg-blue-500 text-white px-4 py-2 rounded-md transition-transform transform hover:scale-110 hover:bg-blue-600 ml-10"
           >
-            Admin?
+            Admin
           </button>
         )}
       </div>
